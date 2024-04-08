@@ -3,8 +3,8 @@
 This project focuses on analyzing the accuracy of sentiment classification using OpenAI's GPT (Generative Pre-trained Transformer) model, specifically for comments related to a particular subject, such as ChatGPT. The sentiment analysis is performed using OpenAI's Sentiment Analysis API, which utilizes the powerful GPT model for natural language understanding.
 
 ## Data Sources
-     *Youtube
-     *Reddit
+     Youtube
+     Reddit
 
 ## Features
 
