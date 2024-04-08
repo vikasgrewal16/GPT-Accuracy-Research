@@ -16,11 +16,8 @@ This project focuses on analyzing the accuracy of sentiment classification using
 ## How it Works
 
 1. Initialization: Set up the OpenAI API key for authentication with the OpenAI API.
-
 2. Sentiment Classification: The positive_negative_classifier function classifies comments as positive, negative, or neutral by invoking the OpenAI Sentiment Analysis API.
-
 3. Data Processing: Optionally, the project can process existing data stored in a CSV file by adding a new column for the sentiment classifier results.
-
 4. Output: Returns the sentiment classification result for a given comment.
 
 ## What all can be done with this data
